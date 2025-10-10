@@ -173,7 +173,7 @@ Use at your own risk. The maintainers assume no responsibility for financial los
 - Randomizing the pool
 
 # 👨‍💻 Author
-### 📞 Telegram: [0xOpsDev](https://t.me/its0xopsdev)   
-https://t.me/its0xopsdev
+### 📞 Telegram: [rust_devv](https://t.me/rust_devv)   
+https://t.me/rust_devv
 
 **Built for performance. Secured for production. Optimized for BNB Smart Chain.**

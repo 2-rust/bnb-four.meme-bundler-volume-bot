@@ -24,7 +24,7 @@ async function main() {
     )}ETH and unlock timestamp ${unlockTime} deployed to ${lock.target}`
   );
 }
-
+//////
 // We recommend this pattern to be able to use async/await everywhere
 // and properly handle errors.
 main().catch((error) => {

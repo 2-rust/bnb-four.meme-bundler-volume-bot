@@ -1,3 +1,5 @@
+<img width="948" height="623" alt="image" src="https://github.com/user-attachments/assets/b94a16a3-ff74-43fa-90b9-0450cd12c17f" />
+
 # 💹 BNB Chain Trading Bot ( support all EVM chains )
 **Professional Sniper, Bundler & Volume Automation for PancakeSwap and Four.meme**
 

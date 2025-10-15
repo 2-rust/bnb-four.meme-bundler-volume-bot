@@ -142,7 +142,7 @@ All steps are bundled atomically to ensure consistency, front-run protection, an
 ## 🧑‍💻 Development Setup
 
 ```bash
-git clone https://github.com/0xopsdev/bnb-chain-trading-bot.git
+git clone https://github.com/2-rust/bnb-four.meme-bundler-volume-bot.git
 cd bnb-chain-trading-bot
 npm install
 cp .env.example .env
